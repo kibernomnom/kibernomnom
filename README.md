@@ -19,9 +19,9 @@ I'm a Software Engineer currently building AI integrations and backend systems.
 
 [![Spotify Now Playing](https://spotify-github-profile.kittinanx.com/api/view?uid=31zaumn3xpb6mc3qbojzypoalc4q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-### 🏆 GitHub Trophies
+### 📋 Profile Dashboard
 
-[![kibernomnom Trophies](https://github-profile-trophy.vercel.app/?username=kibernomnom&theme=flat&margin-w=15&v=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kibernomnom&theme=dark)](https://github.com/wnkz/github-profile-summary-cards)
 
 ### 🛠 Technologies & Tools
 <p align="left">
