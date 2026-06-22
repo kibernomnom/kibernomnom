@@ -2,6 +2,11 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Engineer;Building+AI+Integrations;Targeting+Politecnico+di+Milano&font=Fira+Code&size=20&pause=1000&color=147EFB)
 
+<p align="left">
+  <a href="https://t.me/ТВОЙ_НИК_В_ТГ"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:ТВОЯ_ПОЧТА@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
 I'm a Software Engineer currently building AI integrations and backend systems.
 
 - 🚀 **Currently building:** An IT startup involving bot integrations and AI-assisted tools.
@@ -19,6 +24,7 @@ I'm a Software Engineer currently building AI integrations and backend systems.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kibernomnom&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibernomnom&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kibernomnom&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
