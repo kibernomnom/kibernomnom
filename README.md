@@ -16,9 +16,9 @@ I'm a Software Engineer currently building AI integrations and backend systems.
 - 🌍 **Languages:** English, Italian, French, Spanish, Chinese, Polish, Russian.
 
 ### 🎧 Now Playing
-<p align="left">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ТВОЙ_UID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=v&cover_image=true&theme=default&show_offline=false&background_color=0D1117&bar_color=147EFB" alt="Spotify Now Playing" />
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zaumn3xpb6mc3qbojzypoalc4q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
 
