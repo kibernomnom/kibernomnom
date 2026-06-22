@@ -18,7 +18,7 @@ I'm a Software Engineer currently building AI integrations and backend systems.
 ### 🎧 Now Playing
 <p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ТВОЙ_UID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ТВОЙ_UID&cover_image=true&theme=default&show_offline=false&background_color=0D1117&bar_color=147EFB" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=v&cover_image=true&theme=default&show_offline=false&background_color=0D1117&bar_color=147EFB" alt="Spotify Now Playing" />
   </a>
 </p>
 
