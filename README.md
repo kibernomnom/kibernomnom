@@ -23,9 +23,7 @@ I'm a Software Engineer currently building AI integrations and backend systems.
 </p>
 
 ### 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kibernomnom&theme=dracula&no-bg=true&no-frame=true&margin-w=15" alt="kibernomnom" /></a>
-</p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kibernomnom&theme=dracula&no-bg=true&no-frame=true&margin-w=15&v=1" alt="kibernomnom" /></a>
 
 ### 🛠 Technologies & Tools
 <p align="left">
