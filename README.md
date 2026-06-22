@@ -13,7 +13,6 @@ I'm a Software Engineer currently building AI integrations and backend systems.
 - 🚀 **Currently building:** An IT startup involving bot integrations and AI-assisted tools.
 - 🎓 **Target:** Foundation year and Computer Engineering at Politecnico di Milano.
 - 💻 **Tech Focus:** Python, Swift, iOS App Development (Xcode).
-- 🌍 **Languages:** English, Italian, French, Spanish, Chinese, Polish, Russian.
 
 ### 🎧 Now Playing
 
