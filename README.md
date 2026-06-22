@@ -43,3 +43,5 @@ I'm a Software Engineer currently building AI integrations and backend systems.
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kibernomnom&bg_color=0D1117&color=147EFB&line=147EFB&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </p>
+
+### ⏱ Weekly Development Breakdown
