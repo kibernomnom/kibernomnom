@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=kibernomnom&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-I'm a Software Engineer currently building AI integrations and backend systems.
+I'm a beginner Software Engineer currently building AI integrations and backend systems.
 
 - 🚀 **Currently building:** An IT startup involving bot integrations and AI-assisted tools.
 - 🎓 **Target:** Foundation year and Computer Engineering at Politecnico di Milano.
