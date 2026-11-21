@@ -1,18 +1,19 @@
 ### Hey there! 👋 I'm Alexander
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Engineer;Building+AI+Integrations;Targeting+Politecnico+di+Milano&font=Fira+Code&size=20&pause=1000&color=147EFB)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Python+%26+AI+Builder;Web+%26+API+Security+Researcher;Linux+%2F+NixOS+Enthusiast;Targeting+Politecnico+di+Milano&font=Fira+Code&size=20&pause=1000&color=147EFB)
 
 <p align="left">
-  <a href="https://t.me/@KiberNom"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/KiberNom"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:kibernomnom@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=kibernomnom&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-I'm a beginner Software Engineer currently building AI integrations and backend systems.
+I build full-stack web systems, automation bots, and security tooling—shipping fast with AI-augmented workflows.
 
-- 🚀 **Currently building:** An IT startup involving bot integrations and AI-assisted tools.
-- 🎓 **Target:** Foundation year and Computer Engineering at Politecnico di Milano.
-- 💻 **Tech Focus:** Python, Swift, iOS App Development (Xcode).
+- 🛡️ **Security & Infra:** Web/API security auditing, automated recon tooling, Linux/NixOS administration, VPS & Nginx hardening.
+- ⚡ **Building:** Custom web apps, Telegram & LLM-powered bots, uptime/security monitoring services, and voice/outreach pipelines.
+- 🧰 **Core Stack:** Python (`FastAPI`, `aiohttp`, `aiogram`), PostgreSQL, SQLite, Linux (NixOS), Bash, Nginx, Docker, Git, HTML/CSS/JS, Burp Suite, Nmap, ffuf, nuclei.
+- 🎓 **Academic Track:** Computer Engineering track targeting **Politecnico di Milano**.
 
 ### 🎧 Now Playing
 
@@ -24,10 +25,9 @@ I'm a beginner Software Engineer currently building AI integrations and backend 
 
 ### 🛠 Technologies & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,swift,apple,linux,docker,git,github,vscode&perline=10" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,linux,nix,bash,nginx,docker,git,github,neovim,html,css,js&perline=8" alt="My Skills" />
 </p>
 
-### ⏱ Weekly Development Breakdown
 ### 📊 GitHub Stats & Streaks
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kibernomnom&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
